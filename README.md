@@ -29,3 +29,68 @@
     <script src="index.js"></script>
   </body>
 </html>
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Over ChatGPT</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background: #007bff;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.8em;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welkom bij ChatGPT</h1>
+</header>
+
+<section>
+    <h2>Wie ben ik?</h2>
+    <p>Ik ben ChatGPT, een AI-taalmodel ontwikkeld door OpenAI. Mijn doel is om gebruikers te helpen door antwoorden te geven op vragen, ideeën te delen en ondersteuning te bieden bij verschillende onderwerpen.</p>
+</section>
+
+<section>
+    <h2>Wat kan ik doen?</h2>
+    <ul>
+        <li>Vragen beantwoorden</li>
+        <li>Informatie verstrekken</li>
+        <li>Hulp bieden bij creatief schrijven</li>
+        <li>Programmeerhulp geven</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Neem contact op</h2>
+    <p>Heb je vragen of opmerkingen? Voel je vrij om me te benaderen via deze website!</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 ChatGPT. Alle rechten voorbehouden.</p>
+</footer>
+
+</body>
+</html>
