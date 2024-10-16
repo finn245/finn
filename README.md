@@ -69,8 +69,8 @@
 </header>
 
 <section>
-    <h2>Wie ben ik?</h2>
-    <p>Ik ben ChatGPT, een AI-taalmodel ontwikkeld door OpenAI. Mijn doel is om gebruikers te helpen door antwoorden te geven op vragen, ideeën te delen en ondersteuning te bieden bij verschillende onderwerpen.</p>
+    <h2wat is chatgpt?</h2>
+    <p>wat is ChatGPT, een AI-taalmodel ontwikkeld door OpenAI. zijn doel is om gebruikers te helpen door antwoorden te geven op vragen, ideeën te delen en ondersteuning te bieden bij verschillende onderwerpen.</p>
 </section>
 
 <section>
