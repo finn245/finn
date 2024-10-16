@@ -37,32 +37,8 @@
     <title>Over ChatGPT</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        header {
-            background: #007bff;
-            color: white;
-            padding: 10px 20px;
-            text-align: center;
-        }
-        section {
-            margin: 20px 0;
-            padding: 20px;
-            background: white;
-            border-radius: 5px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        }
-        footer {
-            text-align: center;
-            margin-top: 20px;
-            font-size: 0.8em;
-        }
-    </style>
-</head>
-<body>
+  
+
 
 <header>
     <h1>Welkom bij ChatGPT</h1>
@@ -97,5 +73,3 @@
 </body>
 <li> finn vandekerckhove</li>li>
 
-  
-</li>
