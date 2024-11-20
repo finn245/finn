@@ -58,7 +58,8 @@
         <li>Programmeerhulp geven</li>
     </ul>
 </section>
-
+https://maps.app.goo.gl/8VBdGKSWFJzdGHHC9 
+<dit is het hoofdkantoor van nederlandse chatgpt>
 <section>
     <h2>Neem contact op</h2>
     <p>Heb je vragen of opmerkingen? Voel je vrij om me te benaderen via deze website!</p>
