@@ -58,7 +58,7 @@
         <li>Programmeerhulp geven</li>
     </ul>
 </section>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2435.8112742692583!2d4.896399!3d52.373842!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609b8e2cd82d7%3A0x57498eeb7bd27418!2sChatGPT%20Nederlands!5e0!3m2!1snl!2sbe!4v1732092032640!5m2!1snl!2sbe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</iframe>
 <li></li>dit is het hoofdkantoor van nederlandse chatgpt</li>
 <section>
     <h2>Neem contact op</h2>
